@@ -1,1 +1,3 @@
-# xgboostexample
+# XGBoost vs Linear Regression results
+The following investigates the performance of rather naive implementations of both the XGBoost algorithm and linear regression as applied to predicting median house value derived from California housing data. At first glance, XGBoost significantly outperforms linear regression but more advanced forms of linear regression should be compared. This provides a good starting point for further investigation.
+We note that the code to produce the results is contained in xgboost_example.py, the data is contained in california_housing.csv, and a snippet of the results we achieved is contained in xgboost_ca_housing_results.png.
